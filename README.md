@@ -1,2 +1,1 @@
-# FlappyBird
-Flappy Bird Clone
+Flappy Bird clone created from scratch on unity
